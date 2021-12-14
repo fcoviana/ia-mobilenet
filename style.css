@@ -1,0 +1,27 @@
+.container {
+  margin-top: 100px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 800px;
+}
+
+.result-progress {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 24px;
+}
+
+#loading {
+  display: none;
+  margin-top: 16px;
+}
+
+#formFile {
+  width: 500px;
+  margin-bottom: 32px;
+}
+
+#img {
+  margin-bottom: 18px;
+}
